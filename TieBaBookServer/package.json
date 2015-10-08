@@ -1,0 +1,10 @@
+{
+  "name": "TieBaBookServer",
+  "version": "0.0.0",
+  "description": "TieBaBookServer",
+  "main": "app.js",
+  "author": {
+    "name": "chendingmiao",
+    "email": ""
+  }
+}
